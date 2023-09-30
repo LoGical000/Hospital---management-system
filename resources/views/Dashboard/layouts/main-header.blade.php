@@ -273,7 +273,7 @@
 
                                         <a class="dropdown-item" href="#"
                                            onclick="event.preventDefault();
-                                        this.closest('form').submit();"><i class="bx bx-log-out"></i> Sign Out bitch</a>
+                                        this.closest('form').submit();"><i class="bx bx-log-out"></i> Sign Out </a>
 
                                     </form>
 
